@@ -1,0 +1,81 @@
+---
+title: "Mario Santoro Research Lines: Past, Present and Future"
+author: |
+  |
+  | <a href="https://github.com/santoroma/">Mario Santoro</a></small>
+  | <small>Presentation for the interview of the CNR's concourse 366.64 - Prot. AMMCEN n. 0053431</small>
+output:
+  revealjs::revealjs_presentation:
+    template: CNR_research_lines_Template.html
+    incremental: false
+    self_contained: false
+    reveal_plugins: ["notes", "zoom", "menu"]
+    theme: league
+    transition: zoom
+    background_transition: zoom
+    highlight: pygments
+    center: true
+    progress: true
+    slideNumber: true
+    menu:
+        numbers: true
+    defaultTiming: 120
+---
+
+# The Past                                 {data-background="img/The_Past.JPG" data-background-size="105%" data-background-position="bottom"}
+
+## Data Analisys on AIDS (HIV-Infected Patients) {data-background="img/HIV_Therapy.gif"}
+<small>
+
+- <span style="background-color:rgba(0,0,0,0.5)"> Journal of Antimicrobial Chemotherapy (2006) 58, 714–722: </span> 
+  
+    + <span style="background-color:rgba(0,0,0,0.5)"> Estimation of Probability to observe mutations at position 38 over time during HAAR Therapy </span>  
+    + <span style="background-color:rgba(0,0,0,0.5)"> Using a Multinomial Distribution at each time step </span>   
+    + <span style="background-color:rgba(0,0,0,0.5)"> The $p_i$ are estimated using the MLE ($\frac{x_i}{n}) </span>  
+<br>
+
+- <span style="background-color:rgba(0,0,0,0.5)">
+ AIDS RESEARCH AND HUMAN RETROVIRUSES Volume 25, Number 1, 2009 </span>
+
+    + <span style="background-color:rgba(0,0,0,0.5)"> Evolution of drug resistance mutations during Treatment Interruption </span>    
+    + <span style="background-color:rgba(0,0,0,0.5)"> Using a survival (Kaplan-Mayer estimation) approach for the NRTI resistance mutations </span>  
+    + <span style="background-color:rgba(0,0,0,0.5)"> Estimation of the median time of disappearance (95% CI) of any resistance mutations considered </span>  
+<br>
+
+- <span style="background-color:rgba(0,0,0,0.5)"> Short communications: </span>
+
+    + <span style="background-color:rgba(0,0,0,0.5)"> The 13th Conference on Retroviruses and Opportunistic Infections, CROI2006, poter M-145 </span>
+    + <span style="background-color:rgba(0,0,0,0.5)"> The 20th International Conference on Antiviral Research, 2007, doi:10.1016/j.antiviral.2007.01.013 </span>
+<br>
+
+</small>
+
+## <span style="background-color:rgba(0,0,0,0.5)">Data Analisys on Emission Estimation and Mortatility in the Ciampino Municipality and sourrounding</span> {data-background="img/copertina.jpg" data-background-size="40%" data-background-position="right"}
+
+<small>
+  
+- <span style="background-color:rgba(0,0,0,0.5)"> Valutazione del rischio ambientale del comune di Ciampino in relazione all’inquinamento atmosferico (2007):</span>  
+  
+    + <span style="background-color:rgba(0,0,0,0.5)"> Using of the DPSIR Model with the EMEP/CORINAIR and NAMEA-EUROSTAT Estimation Models </span>  
+    + <span style="background-color:rgba(0,0,0,0.5)"> Data finding, normalization and linking </span>
+    + <span style="background-color:rgba(0,0,0,0.5)"> Definition of Density of Emission Pressure: $DE_jk = \frac{E_k}{S_jP_j}$. $E_k$ emission of the $k$ type, $S_j$ surface of the area (city, province, state,..) $j$ with population  $P_j$ </span>  
+<br>
+
+- <span style="background-color:rgba(0,0,0,0.5)"> Studio della Mortalità per cause nel Comune di Ciampino e comuni limitrofi negli anni 1987-2002 (2007):</span>  
+
+    + <span style="background-color:rgba(0,0,0,0.5)"> Evolution of drug resistance mutations during Treatment Interruption </span>  
+    + <span style="background-color:rgba(0,0,0,0.5)"> Using a survival (Kaplan-Mayer estimation) approach for the NRTI resistance mutations </span>  
+    + <span style="background-color:rgba(0,0,0,0.5)"> Estimation of the median time of disappearance (95% CI) of any resistance mutations considered </span>  
+<br>
+</small>
+
+# <span style="background-color:rgba(0,0,0,0.5)">The Present</span>  {data-background="img/The_Present.JPG" data-background-size="30%"}
+
+# <span style="background-color:rgba(0,0,0,0.5)">The Future</span>  {data-background-color="#ffffff" data-background-image="img/The_Future.gif" data-background-size="60%"}
+
+
+
+# ... this is the END {data-background="img/the_end.gif"}
+
+## THANKS!!! {data-background="img/truman_show_end.gif"}
+
