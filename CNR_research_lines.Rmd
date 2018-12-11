@@ -22,9 +22,9 @@ output:
     defaultTiming: 120
 ---
 
-# The Past (2005-2015)                                {data-background="img/The_Past.JPG" data-background-size="105%" data-background-position="bottom"}
+# The Past (2005-2015)                                {data-background="img/The_Past.JPG" data-background-size="contain" data-background-repeat="no-repeat"}
 
-##  <span style="background-color:rgba(0,0,0,1)">COMPETING HIV STRAINS AND IMMUNE SYSTEM RESPONSE (2005-2009 until 2011)</span>  {data-background="img/GST.png" data-background-size="75%"}
+##  <span style="background-color:rgba(0,0,0,1)">COMPETING HIV STRAINS AND IMMUNE SYSTEM RESPONSE (2005-2009 until 2011)</span>  {data-background="img/GST.png" data-background-size="contain" data-background-repeat="no-repeat"}
 <small>
 
 - <span style="background-color:rgba(0,0,0,1)"> PhD Thesis</span>  
@@ -78,7 +78,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 
 
 
-## Data Analisys on AIDS (HIV-Infected Patients) (2005-2009) {data-background="img/HIV_Therapy.gif"}
+## Data Analisys on AIDS (HIV-Infected Patients) (2005-2009) {data-background="img/HIV_Therapy.gif" data-background-size="contain" data-background-repeat="no-repeat"}
 <small>
 
 - <span style="background-color:rgba(0,0,0,0.5)"> Journal of Antimicrobial Chemotherapy (2006) 58, 714–722: </span> 
@@ -145,7 +145,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 </div> 
 
 
-## <span style="background-color:rgba(0,0,0,0.9)">Data Scientist at Center for Molecular Allergology (CAM) (2009-2012 still active low-effort collaboration) </span> {data-background="img/Interall.png" data-background-size="75%"}
+## <span style="background-color:rgba(0,0,0,0.9)">Data Scientist at Center for Molecular Allergology (CAM) (2009-2012 still active low-effort collaboration) </span> {data-background="img/Interall.png" data-background-size="contain" data-background-repeat="no-repeat"}
 
 <small>
   
@@ -164,7 +164,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
     + <span style="background-color:rgba(0,0,0,0.9)"> Hard coding effort with R, MySql and PHP for Data Cleaning/Preprocessing, Analysis and Visulization</span>   
 </small>
 
-## <span style="background-color:rgba(0,0,0,0.9)">Data Scientist at Center for Molecular Allergology (CAM) (2009-2012) </span> {data-background="img/Interall.png" data-background-size="75%"}
+## <span style="background-color:rgba(0,0,0,0.9)">Data Scientist at Center for Molecular Allergology (CAM) (2009-2012) </span> {data-background="img/Interall.png" data-background-size="contain" data-background-repeat="no-repeat"}
 
 <small>
   
@@ -181,7 +181,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 
 </small>
 
-## <span style="background-color:rgba(0,0,0,0.7)"> Tecnology Translator at SMII (Mathematical Desk for the Italian Industry ) (2013-2014) </span> {data-background="img/SMII.png" data-background-size="90%"}
+## <span style="background-color:rgba(0,0,0,0.7)"> Tecnology Translator at SMII (Mathematical Desk for the Italian Industry ) (2013-2014) </span> {data-background="img/SMII.png" data-background-size="contain" data-background-repeat="no-repeat"}
 
 <small>
   
@@ -201,7 +201,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 <div class="column" style="float:left; width: 50%">  
 <small>   
 
-- Toy-model with exact analytical solution to evaluate the cost function of Unicredit Asset Liability Management Model and proposal of new one with better convergence  
+- Simple model with exact analytical solution to evaluate the cost function of Unicredit Asset Liability Management Model and proposal of new one with better convergence  
  
 - Creation and implementation of TH.E.SYS, THREAT EVALUATION SYSTEM, evaluation procedure of the state risk for a private corporation. TH.E.SYS is a a composite index from multiple etherogenous sources. I can't say more than that... 
   
@@ -212,7 +212,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 ![](img/THESYS.png)
 </div>  
 
-## <span style="background-color:rgba(0,0,0,0.7)"> Early steps as IAC research fellow (2014-2015) </span> {data-background="img/R_logo.png"}
+## <span style="background-color:rgba(0,0,0,0.7)"> Early steps as IAC research fellow (2014-2015) </span> {data-background="img/R_logo.png" data-background-size="contain" data-background-repeat="no-repeat"}
 
 <div class="column" style="float:left; width: 40%">  
 <small>   
@@ -222,12 +222,12 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 </div>
 <div class="column" style="float:right; width: 40%">
 <small>
-<span style="background-color:rgba(0,0,0,0.7)"> Toy model (Hull-White) with exact analitycal solution in order to benchmark the model and the simulation of Credit Value Adjustment developed for Italian Ministery of Finance and Economics (SAPE model)</span> 
+<span style="background-color:rgba(0,0,0,0.7)"> Simple model (Hull-White) with exact analitycal solution in order to benchmark the model and the simulation of Credit Value Adjustment developed for Italian Ministery of Finance and Economics (SAPE model)</span> 
 </small>
 ![](img/CVA.png)
 </div> 
 
-# <span style="background-color:rgba(0,0,0,0.5)">The Present (2016-2018) </span>  {data-background="img/The_Present.JPG" data-background-size="30%"}
+# <span style="background-color:rgba(0,0,0,0.5)"> The Present (2016-2018) </span>  {data-background="img/The_Present.JPG" data-background-size="contain" data-background-repeat="no-repeat"}
 
 ## Natural Language Processing
 
@@ -293,9 +293,12 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 <small>
   
 - In collaboration with **Piazza Copernico** Sentiment E-STM was applied to employee satisfaction survey of italian division of ENEL S.p.A.  
-
-![](img/ENEL_01.png)
-![](img/ENEL_02.png)
+<left>
+![](img/ENEL_01.png){width=45%}
+</left>
+<right>
+![](img/ENEL_02.png){width=45%}
+</right>
 
 </small>
 
@@ -315,7 +318,7 @@ and $f_\Theta(\theta)=\int_{R^+} rf_\mathbf{Y}((rcos\theta , rsin\theta)')dr$
 </small>
 
 
-# <span style="background-color:rgba(0,0,0,0.5)">The Future</span>  {data-background-color="#ffffff" data-background-image="img/The_Future.gif" data-background-size="60%"}
+# <span style="background-color:rgba(0,0,0,0.5)">The Future</span>  {data-background-color="#ffffff" data-background-image="img/The_Future.gif "data-background-size="contain" data-background-repeat="no-repeat"}
 
 
 ## Beyond E-STM
